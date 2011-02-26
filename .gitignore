@@ -1,1 +1,15 @@
+~*
 *~
+output/*
+docbook/*
+docbook-sample/*
+clean-html/*
+docbook_tmp/*
+epub/*
+epub-sample/*
+mobi/*
+mobi-sample/*
+clean-titled-html/*
+metadata.xml
+.dropbox
+Icon?
